@@ -1,0 +1,1429 @@
+make,model,rank,failure_area,tests_failing_in_area_pct
+Alfa Romeo,Giulia,1,Tyres,6.4
+Alfa Romeo,Giulia,2,"Lamps, reflectors and electrical equipment",4.5
+Alfa Romeo,Giulia,3,Brakes,2.3
+Alfa Romeo,Giulia,4,"Noise, emissions and leaks",1.1
+Alfa Romeo,Giulia,5,Visibility,1
+Alfa Romeo,Giulia,6,Suspension,0.9
+Alfa Romeo,Giulietta,1,Suspension,14
+Alfa Romeo,Giulietta,2,"Lamps, reflectors and electrical equipment",12.5
+Alfa Romeo,Giulietta,3,Tyres,9.3
+Alfa Romeo,Giulietta,4,Brakes,6.5
+Alfa Romeo,Giulietta,5,Visibility,4.7
+Alfa Romeo,Giulietta,6,"Noise, emissions and leaks",4.3
+Alfa Romeo,Stelvio,1,Tyres,4.3
+Alfa Romeo,Stelvio,2,"Lamps, reflectors and electrical equipment",2.9
+Alfa Romeo,Stelvio,3,Brakes,2.9
+Alfa Romeo,Stelvio,4,Visibility,1.4
+Alfa Romeo,Stelvio,5,Suspension,1.1
+Alfa Romeo,Stelvio,6,"Noise, emissions and leaks",1
+Audi,A1,1,Suspension,9.1
+Audi,A1,2,Tyres,7
+Audi,A1,3,"Lamps, reflectors and electrical equipment",5.4
+Audi,A1,4,Brakes,4.5
+Audi,A1,5,Visibility,2.6
+Audi,A1,6,"Body, chassis, structure",1.8
+Audi,A3,1,Suspension,8.6
+Audi,A3,2,"Lamps, reflectors and electrical equipment",7.4
+Audi,A3,3,Tyres,7.3
+Audi,A3,4,Brakes,5
+Audi,A3,5,"Noise, emissions and leaks",2.9
+Audi,A3,6,Visibility,2.8
+Audi,A4,1,Suspension,10
+Audi,A4,2,"Lamps, reflectors and electrical equipment",8
+Audi,A4,3,Tyres,7.5
+Audi,A4,4,Brakes,4.7
+Audi,A4,5,"Body, chassis, structure",4.3
+Audi,A4,6,"Noise, emissions and leaks",3.2
+Audi,A5,1,Tyres,8.4
+Audi,A5,2,Suspension,7.4
+Audi,A5,3,"Lamps, reflectors and electrical equipment",5
+Audi,A5,4,Brakes,3
+Audi,A5,5,Visibility,2.9
+Audi,A5,6,"Body, chassis, structure",2.6
+Audi,A6,1,Tyres,6.7
+Audi,A6,2,Suspension,5.8
+Audi,A6,3,"Lamps, reflectors and electrical equipment",5.6
+Audi,A6,4,Brakes,2.8
+Audi,A6,5,"Noise, emissions and leaks",2.7
+Audi,A6,6,Visibility,2.6
+Audi,A7,1,Tyres,7.1
+Audi,A7,2,Suspension,3.5
+Audi,A7,3,"Lamps, reflectors and electrical equipment",2.3
+Audi,A7,4,Brakes,1.7
+Audi,A7,5,Visibility,1.6
+Audi,A7,6,"Noise, emissions and leaks",1.5
+Audi,A8,1,Tyres,4
+Audi,A8,2,"Lamps, reflectors and electrical equipment",3.2
+Audi,A8,3,Suspension,2.7
+Audi,A8,4,Brakes,2.3
+Audi,A8,5,Visibility,2.3
+Audi,A8,6,"Noise, emissions and leaks",2
+Audi,Q2,1,Tyres,4.4
+Audi,Q2,2,Brakes,2.3
+Audi,Q2,3,"Lamps, reflectors and electrical equipment",1.9
+Audi,Q2,4,Visibility,1.3
+Audi,Q2,5,Suspension,0.5
+Audi,Q2,6,"Noise, emissions and leaks",0.4
+Audi,Q3,1,Suspension,7.1
+Audi,Q3,2,Tyres,5.5
+Audi,Q3,3,"Lamps, reflectors and electrical equipment",2.7
+Audi,Q3,4,Brakes,2.6
+Audi,Q3,5,Visibility,2.5
+Audi,Q3,6,"Noise, emissions and leaks",1.4
+Audi,Q4 e-tron,1,Tyres,9.4
+Audi,Q4 e-tron,2,"Lamps, reflectors and electrical equipment",1.5
+Audi,Q4 e-tron,3,Visibility,1.3
+Audi,Q4 e-tron,4,Suspension,0.5
+Audi,Q4 e-tron,5,Seat belts and supplementary restraint systems,0.5
+Audi,Q4 e-tron,6,Brakes,0.3
+Audi,Q5,1,Tyres,4.4
+Audi,Q5,2,Suspension,4.3
+Audi,Q5,3,"Lamps, reflectors and electrical equipment",3.6
+Audi,Q5,4,"Body, chassis, structure",3
+Audi,Q5,5,Brakes,2.1
+Audi,Q5,6,"Noise, emissions and leaks",2
+Audi,Q7,1,Tyres,6.2
+Audi,Q7,2,"Lamps, reflectors and electrical equipment",3.9
+Audi,Q7,3,Suspension,3.8
+Audi,Q7,4,Brakes,3.3
+Audi,Q7,5,Visibility,2.5
+Audi,Q7,6,"Noise, emissions and leaks",1.8
+Audi,TT,1,"Lamps, reflectors and electrical equipment",8
+Audi,TT,2,Suspension,7.2
+Audi,TT,3,Tyres,6.1
+Audi,TT,4,Brakes,5.3
+Audi,TT,5,"Noise, emissions and leaks",3.6
+Audi,TT,6,Visibility,3.2
+Audi,e-tron,1,Tyres,7
+Audi,e-tron,2,Visibility,1.3
+Audi,e-tron,3,"Lamps, reflectors and electrical equipment",1.2
+Audi,e-tron,4,Identification of the vehicle,0.5
+Audi,e-tron,5,Brakes,0.3
+Audi,e-tron,6,Suspension,0.2
+BMW,1 Series,1,"Lamps, reflectors and electrical equipment",8.7
+BMW,1 Series,2,Tyres,7.1
+BMW,1 Series,3,Suspension,5.6
+BMW,1 Series,4,Brakes,5
+BMW,1 Series,5,Visibility,3.9
+BMW,1 Series,6,"Noise, emissions and leaks",2.4
+BMW,2 Series,1,Tyres,6.2
+BMW,2 Series,2,"Lamps, reflectors and electrical equipment",4.7
+BMW,2 Series,3,Suspension,3
+BMW,2 Series,4,Brakes,2.1
+BMW,2 Series,5,Visibility,2
+BMW,2 Series,6,"Noise, emissions and leaks",1.2
+BMW,3 Series,1,"Lamps, reflectors and electrical equipment",8.4
+BMW,3 Series,2,Tyres,7.2
+BMW,3 Series,3,Suspension,6.8
+BMW,3 Series,4,Brakes,5.7
+BMW,3 Series,5,Visibility,3.3
+BMW,3 Series,6,"Noise, emissions and leaks",2.7
+BMW,4 Series,1,Tyres,8.1
+BMW,4 Series,2,"Lamps, reflectors and electrical equipment",3.2
+BMW,4 Series,3,Suspension,2.7
+BMW,4 Series,4,Brakes,2.4
+BMW,4 Series,5,Visibility,1.9
+BMW,4 Series,6,Road Wheels,0.9
+BMW,5 Series,1,Tyres,6.7
+BMW,5 Series,2,Suspension,6
+BMW,5 Series,3,"Lamps, reflectors and electrical equipment",5.6
+BMW,5 Series,4,Brakes,3.2
+BMW,5 Series,5,Visibility,2.6
+BMW,5 Series,6,"Noise, emissions and leaks",1.7
+BMW,7 Series,1,Tyres,4.8
+BMW,7 Series,2,Suspension,2.2
+BMW,7 Series,3,"Lamps, reflectors and electrical equipment",1.7
+BMW,7 Series,4,Brakes,1.4
+BMW,7 Series,5,Visibility,1.4
+BMW,7 Series,6,"Noise, emissions and leaks",0.9
+BMW,M3,1,"Lamps, reflectors and electrical equipment",4.1
+BMW,M3,2,Tyres,3.3
+BMW,M3,3,Suspension,2.8
+BMW,M3,4,Brakes,2.5
+BMW,M3,5,"Noise, emissions and leaks",2.2
+BMW,M3,6,Visibility,1.7
+BMW,M4,1,Tyres,6.3
+BMW,M4,2,Suspension,3.4
+BMW,M4,3,"Lamps, reflectors and electrical equipment",1.3
+BMW,M4,4,Brakes,0.8
+BMW,M4,5,Visibility,0.8
+BMW,M4,6,"Noise, emissions and leaks",0.7
+BMW,M5,1,Suspension,3.3
+BMW,M5,2,"Lamps, reflectors and electrical equipment",3
+BMW,M5,3,Tyres,2.9
+BMW,M5,4,"Noise, emissions and leaks",2.3
+BMW,M5,5,Brakes,2.1
+BMW,M5,6,Visibility,1.8
+BMW,X1,1,Tyres,6
+BMW,X1,2,"Lamps, reflectors and electrical equipment",4.6
+BMW,X1,3,Suspension,4.6
+BMW,X1,4,Brakes,2.9
+BMW,X1,5,Visibility,2.9
+BMW,X1,6,"Noise, emissions and leaks",1.2
+BMW,X2,1,Tyres,6.2
+BMW,X2,2,Visibility,3
+BMW,X2,3,"Lamps, reflectors and electrical equipment",2.9
+BMW,X2,4,"Noise, emissions and leaks",1.3
+BMW,X2,5,Brakes,1.2
+BMW,X2,6,Suspension,0.9
+BMW,X3,1,"Lamps, reflectors and electrical equipment",6.4
+BMW,X3,2,Tyres,5.6
+BMW,X3,3,Suspension,4.5
+BMW,X3,4,Visibility,3.2
+BMW,X3,5,Brakes,2.7
+BMW,X3,6,"Noise, emissions and leaks",1.5
+BMW,X4,1,Tyres,5.6
+BMW,X4,2,Visibility,3.3
+BMW,X4,3,Suspension,3.1
+BMW,X4,4,"Lamps, reflectors and electrical equipment",2.7
+BMW,X4,5,Brakes,1.7
+BMW,X4,6,"Noise, emissions and leaks",1.3
+BMW,X5,1,Tyres,7.2
+BMW,X5,2,"Lamps, reflectors and electrical equipment",5.7
+BMW,X5,3,Suspension,5.2
+BMW,X5,4,Brakes,3.8
+BMW,X5,5,Visibility,2.7
+BMW,X5,6,"Body, chassis, structure",2.2
+BMW,X6,1,Tyres,6.1
+BMW,X6,2,Suspension,3.9
+BMW,X6,3,"Lamps, reflectors and electrical equipment",3.8
+BMW,X6,4,Visibility,2.5
+BMW,X6,5,Brakes,2.3
+BMW,X6,6,"Noise, emissions and leaks",1.7
+BMW,i3,1,Tyres,5.3
+BMW,i3,2,"Lamps, reflectors and electrical equipment",3.4
+BMW,i3,3,Visibility,2.7
+BMW,i3,4,Suspension,1.6
+BMW,i3,5,Brakes,1
+BMW,i3,6,Seat belts and supplementary restraint systems,0.5
+BMW,i4,1,Tyres,12.4
+BMW,i4,2,"Lamps, reflectors and electrical equipment",1.9
+BMW,i4,3,Visibility,1.8
+BMW,i4,4,Identification of the vehicle,0.6
+BMW,i4,5,Seat belts and supplementary restraint systems,0.3
+BMW,i4,6,Brakes,0.2
+BMW,iX,1,Tyres,9.2
+BMW,iX,2,Visibility,3.1
+BMW,iX,3,Steering,1.2
+BMW,iX,4,"Lamps, reflectors and electrical equipment",1
+BMW,iX,5,Identification of the vehicle,0.7
+BMW,iX,6,Seat belts and supplementary restraint systems,0.4
+BMW,iX3,1,Tyres,9.8
+BMW,iX3,2,Visibility,2.9
+BMW,iX3,3,"Lamps, reflectors and electrical equipment",2
+BMW,iX3,4,Suspension,0.5
+BMW,iX3,5,Identification of the vehicle,0.3
+BMW,iX3,6,Seat belts and supplementary restraint systems,0.2
+Citroën,Berlingo,1,"Lamps, reflectors and electrical equipment",24.4
+Citroën,Berlingo,2,Suspension,11.4
+Citroën,Berlingo,3,"Body, chassis, structure",8.1
+Citroën,Berlingo,4,Brakes,7.9
+Citroën,Berlingo,5,Visibility,7.4
+Citroën,Berlingo,6,Tyres,6.9
+Citroën,C3,1,"Lamps, reflectors and electrical equipment",17.1
+Citroën,C3,2,Suspension,10.9
+Citroën,C3,3,"Body, chassis, structure",7.4
+Citroën,C3,4,Tyres,6.2
+Citroën,C3,5,Brakes,6.1
+Citroën,C3,6,Visibility,5
+Citroën,C3 Aircross,1,Tyres,4
+Citroën,C3 Aircross,2,Brakes,3.9
+Citroën,C3 Aircross,3,"Body, chassis, structure",3.9
+Citroën,C3 Aircross,4,"Lamps, reflectors and electrical equipment",3
+Citroën,C3 Aircross,5,Visibility,1.7
+Citroën,C3 Aircross,6,Suspension,1.2
+Citroën,C4,1,"Lamps, reflectors and electrical equipment",17.6
+Citroën,C4,2,Suspension,14.2
+Citroën,C4,3,"Body, chassis, structure",8.8
+Citroën,C4,4,Brakes,8.5
+Citroën,C4,5,Tyres,7.8
+Citroën,C4,6,Visibility,5.9
+Citroën,C4 Cactus,1,"Lamps, reflectors and electrical equipment",12.5
+Citroën,C4 Cactus,2,Visibility,7.5
+Citroën,C4 Cactus,3,"Body, chassis, structure",6.3
+Citroën,C4 Cactus,4,Tyres,6.2
+Citroën,C4 Cactus,5,Suspension,5.1
+Citroën,C4 Cactus,6,Brakes,4.8
+Citroën,C5 Aircross,1,Tyres,5.4
+Citroën,C5 Aircross,2,Brakes,2
+Citroën,C5 Aircross,3,"Lamps, reflectors and electrical equipment",1.8
+Citroën,C5 Aircross,4,Visibility,1.5
+Citroën,C5 Aircross,5,"Body, chassis, structure",0.6
+Citroën,C5 Aircross,6,Suspension,0.3
+Citroën,Dispatch,1,"Lamps, reflectors and electrical equipment",22.4
+Citroën,Dispatch,2,"Body, chassis, structure",12.2
+Citroën,Dispatch,3,Suspension,9.7
+Citroën,Dispatch,4,Brakes,8.8
+Citroën,Dispatch,5,Visibility,7.6
+Citroën,Dispatch,6,Tyres,6.1
+Cupra,Born,1,Tyres,6.8
+Cupra,Born,2,"Lamps, reflectors and electrical equipment",1.5
+Cupra,Born,3,Visibility,0.9
+Cupra,Born,4,Seat belts and supplementary restraint systems,0.5
+Cupra,Born,5,Suspension,0.4
+Cupra,Born,6,Brakes,0.3
+Cupra,Formentor,1,Tyres,5.2
+Cupra,Formentor,2,Suspension,2.3
+Cupra,Formentor,3,"Lamps, reflectors and electrical equipment",1.9
+Cupra,Formentor,4,Visibility,1.8
+Cupra,Formentor,5,Brakes,1.2
+Cupra,Formentor,6,Seat belts and supplementary restraint systems,0.8
+Dacia,Duster,1,"Lamps, reflectors and electrical equipment",14.4
+Dacia,Duster,2,Visibility,6.4
+Dacia,Duster,3,Brakes,5.4
+Dacia,Duster,4,Tyres,5.3
+Dacia,Duster,5,Suspension,4.7
+Dacia,Duster,6,"Body, chassis, structure",3
+Dacia,Jogger,1,Tyres,7.9
+Dacia,Jogger,2,Visibility,4
+Dacia,Jogger,3,"Lamps, reflectors and electrical equipment",2.8
+Dacia,Jogger,4,Brakes,1.6
+Dacia,Jogger,5,Suspension,1.2
+Dacia,Jogger,6,Seat belts and supplementary restraint systems,1.2
+Dacia,Sandero,1,"Lamps, reflectors and electrical equipment",12.1
+Dacia,Sandero,2,Suspension,9.3
+Dacia,Sandero,3,Visibility,7.2
+Dacia,Sandero,4,Brakes,6
+Dacia,Sandero,5,Tyres,5.1
+Dacia,Sandero,6,"Body, chassis, structure",5
+Fiat,'500',1,Suspension,14.6
+Fiat,'500',2,"Lamps, reflectors and electrical equipment",10.7
+Fiat,'500',3,Brakes,6.9
+Fiat,'500',4,Tyres,6.7
+Fiat,'500',5,Visibility,4.5
+Fiat,'500',6,"Body, chassis, structure",3.5
+Fiat,500X,1,"Lamps, reflectors and electrical equipment",9.1
+Fiat,500X,2,Steering,8.1
+Fiat,500X,3,Tyres,6.7
+Fiat,500X,4,Suspension,5.7
+Fiat,500X,5,"Noise, emissions and leaks",3.4
+Fiat,500X,6,Visibility,3.3
+Fiat,Ducato,1,"Lamps, reflectors and electrical equipment",13.9
+Fiat,Ducato,2,Brakes,8.6
+Fiat,Ducato,3,Suspension,6.4
+Fiat,Ducato,4,"Body, chassis, structure",5.6
+Fiat,Ducato,5,Visibility,5.3
+Fiat,Ducato,6,"Noise, emissions and leaks",2.4
+Ford,EcoSport,1,"Lamps, reflectors and electrical equipment",11
+Ford,EcoSport,2,Tyres,5.7
+Ford,EcoSport,3,Brakes,5
+Ford,EcoSport,4,Visibility,3.5
+Ford,EcoSport,5,"Noise, emissions and leaks",2.3
+Ford,EcoSport,6,Suspension,2.1
+Ford,Fiesta,1,"Lamps, reflectors and electrical equipment",16.3
+Ford,Fiesta,2,Suspension,12.5
+Ford,Fiesta,3,Tyres,8
+Ford,Fiesta,4,Brakes,5.2
+Ford,Fiesta,5,Visibility,4.7
+Ford,Fiesta,6,"Noise, emissions and leaks",4.1
+Ford,Focus,1,"Lamps, reflectors and electrical equipment",15.7
+Ford,Focus,2,Suspension,10.3
+Ford,Focus,3,Tyres,8
+Ford,Focus,4,Brakes,5.5
+Ford,Focus,5,Visibility,4.3
+Ford,Focus,6,"Noise, emissions and leaks",3.9
+Ford,Focus ST,1,Tyres,6.5
+Ford,Focus ST,2,"Lamps, reflectors and electrical equipment",2.3
+Ford,Focus ST,3,Brakes,1.8
+Ford,Focus ST,4,Visibility,1.2
+Ford,Focus ST,5,Suspension,0.7
+Ford,Focus ST,6,"Noise, emissions and leaks",0.5
+Ford,Galaxy,1,"Lamps, reflectors and electrical equipment",18.7
+Ford,Galaxy,2,Suspension,10.2
+Ford,Galaxy,3,Tyres,8.7
+Ford,Galaxy,4,Brakes,7.3
+Ford,Galaxy,5,"Body, chassis, structure",6.2
+Ford,Galaxy,6,Visibility,4.3
+Ford,Kuga,1,"Lamps, reflectors and electrical equipment",7.5
+Ford,Kuga,2,Tyres,6.1
+Ford,Kuga,3,Brakes,4.6
+Ford,Kuga,4,Visibility,3.7
+Ford,Kuga,5,Suspension,3
+Ford,Kuga,6,"Noise, emissions and leaks",1.9
+Ford,Mondeo,1,"Lamps, reflectors and electrical equipment",13.8
+Ford,Mondeo,2,Suspension,10.6
+Ford,Mondeo,3,Tyres,8.8
+Ford,Mondeo,4,Brakes,7.8
+Ford,Mondeo,5,"Body, chassis, structure",4.4
+Ford,Mondeo,6,Visibility,4.1
+Ford,Mustang,1,Brakes,6.3
+Ford,Mustang,2,Tyres,4.2
+Ford,Mustang,3,"Lamps, reflectors and electrical equipment",3.6
+Ford,Mustang,4,Visibility,3.1
+Ford,Mustang,5,Suspension,2.3
+Ford,Mustang,6,"Noise, emissions and leaks",1.4
+Ford,Mustang Mach-E,1,Tyres,5.9
+Ford,Mustang Mach-E,2,"Lamps, reflectors and electrical equipment",2.5
+Ford,Mustang Mach-E,3,Visibility,1.2
+Ford,Mustang Mach-E,4,Brakes,0.5
+Ford,Mustang Mach-E,5,Seat belts and supplementary restraint systems,0.4
+Ford,Mustang Mach-E,6,Identification of the vehicle,0.4
+Ford,Puma,1,Tyres,3.7
+Ford,Puma,2,"Lamps, reflectors and electrical equipment",2
+Ford,Puma,3,Brakes,1.5
+Ford,Puma,4,Visibility,1.5
+Ford,Puma,5,Suspension,0.5
+Ford,Puma,6,"Noise, emissions and leaks",0.5
+Ford,Ranger,1,"Lamps, reflectors and electrical equipment",11.2
+Ford,Ranger,2,Suspension,10.4
+Ford,Ranger,3,Brakes,6.4
+Ford,Ranger,4,Tyres,4
+Ford,Ranger,5,"Body, chassis, structure",3.8
+Ford,Ranger,6,"Noise, emissions and leaks",3.6
+Ford,S-Max,1,"Lamps, reflectors and electrical equipment",14
+Ford,S-Max,2,Suspension,10.2
+Ford,S-Max,3,Tyres,10
+Ford,S-Max,4,Brakes,7.3
+Ford,S-Max,5,"Body, chassis, structure",5.8
+Ford,S-Max,6,Visibility,4.6
+Ford,Tourneo Custom,1,"Lamps, reflectors and electrical equipment",7.7
+Ford,Tourneo Custom,2,Visibility,5.7
+Ford,Tourneo Custom,3,Tyres,4.8
+Ford,Tourneo Custom,4,Brakes,3.8
+Ford,Tourneo Custom,5,"Body, chassis, structure",2.3
+Ford,Tourneo Custom,6,Suspension,2
+Ford,Transit,1,"Lamps, reflectors and electrical equipment",17.2
+Ford,Transit,2,Suspension,12.5
+Ford,Transit,3,Brakes,10.7
+Ford,Transit,4,"Body, chassis, structure",10.7
+Ford,Transit,5,Visibility,6.9
+Ford,Transit,6,Tyres,5.2
+Ford,Transit Connect,1,"Lamps, reflectors and electrical equipment",14.6
+Ford,Transit Connect,2,Brakes,9.9
+Ford,Transit Connect,3,Tyres,7.9
+Ford,Transit Connect,4,Suspension,7.9
+Ford,Transit Connect,5,Visibility,6.8
+Ford,Transit Connect,6,"Body, chassis, structure",6.5
+Ford,Transit Custom,1,"Lamps, reflectors and electrical equipment",9.7
+Ford,Transit Custom,2,Visibility,6.1
+Ford,Transit Custom,3,Brakes,5.2
+Ford,Transit Custom,4,Tyres,5
+Ford,Transit Custom,5,"Body, chassis, structure",1.9
+Ford,Transit Custom,6,"Noise, emissions and leaks",1.4
+Honda,Accord,1,"Lamps, reflectors and electrical equipment",21.3
+Honda,Accord,2,Suspension,13.9
+Honda,Accord,3,Brakes,10.8
+Honda,Accord,4,Tyres,6.9
+Honda,Accord,5,Visibility,6.2
+Honda,Accord,6,"Noise, emissions and leaks",5.4
+Honda,CR-V,1,"Lamps, reflectors and electrical equipment",11.5
+Honda,CR-V,2,Suspension,8.8
+Honda,CR-V,3,Tyres,4.9
+Honda,CR-V,4,Brakes,4.7
+Honda,CR-V,5,Visibility,4.3
+Honda,CR-V,6,"Noise, emissions and leaks",2.7
+Honda,Civic,1,"Lamps, reflectors and electrical equipment",17.4
+Honda,Civic,2,Suspension,10.7
+Honda,Civic,3,Brakes,7.8
+Honda,Civic,4,Tyres,6.4
+Honda,Civic,5,Visibility,5.4
+Honda,Civic,6,"Body, chassis, structure",3.3
+Honda,HR-V,1,Tyres,3.6
+Honda,HR-V,2,Visibility,3.3
+Honda,HR-V,3,Brakes,2.9
+Honda,HR-V,4,Suspension,2.6
+Honda,HR-V,5,"Lamps, reflectors and electrical equipment",2.5
+Honda,HR-V,6,"Noise, emissions and leaks",0.7
+Honda,Jazz,1,"Lamps, reflectors and electrical equipment",11.1
+Honda,Jazz,2,Brakes,7.8
+Honda,Jazz,3,Suspension,6.9
+Honda,Jazz,4,Visibility,5.2
+Honda,Jazz,5,Tyres,4.7
+Honda,Jazz,6,"Noise, emissions and leaks",2.3
+Honda,e,1,Tyres,5.4
+Honda,e,2,Visibility,3.8
+Honda,e,3,"Lamps, reflectors and electrical equipment",0.8
+Honda,e,4,Brakes,0.5
+Honda,e,5,"Body, chassis, structure",0.2
+Honda,e,6,Identification of the vehicle,0.2
+Hyundai,Bayon,1,Visibility,8.9
+Hyundai,Bayon,2,Tyres,2.8
+Hyundai,Bayon,3,"Lamps, reflectors and electrical equipment",2.4
+Hyundai,Bayon,4,Brakes,1.9
+Hyundai,Bayon,5,Suspension,0.6
+Hyundai,Bayon,6,Seat belts and supplementary restraint systems,0.6
+Hyundai,Ioniq,1,Tyres,4.7
+Hyundai,Ioniq,2,"Lamps, reflectors and electrical equipment",4.5
+Hyundai,Ioniq,3,Brakes,2.8
+Hyundai,Ioniq,4,Visibility,2.6
+Hyundai,Ioniq,5,Suspension,0.8
+Hyundai,Ioniq,6,"Noise, emissions and leaks",0.5
+Hyundai,Ioniq 5,1,Tyres,4
+Hyundai,Ioniq 5,2,Visibility,3.7
+Hyundai,Ioniq 5,3,"Lamps, reflectors and electrical equipment",1.1
+Hyundai,Ioniq 5,4,Brakes,0.3
+Hyundai,Ioniq 5,5,Suspension,0.2
+Hyundai,Ioniq 5,6,Seat belts and supplementary restraint systems,0.1
+Hyundai,Kona,1,Tyres,5.3
+Hyundai,Kona,2,Visibility,3.5
+Hyundai,Kona,3,"Lamps, reflectors and electrical equipment",2.8
+Hyundai,Kona,4,Brakes,2.5
+Hyundai,Kona,5,Suspension,1
+Hyundai,Kona,6,"Noise, emissions and leaks",0.6
+Hyundai,Kona Electric,1,Tyres,6.4
+Hyundai,Kona Electric,2,"Lamps, reflectors and electrical equipment",4.1
+Hyundai,Kona Electric,3,Visibility,3.2
+Hyundai,Kona Electric,4,Brakes,1
+Hyundai,Kona Electric,5,Suspension,0.2
+Hyundai,Kona Electric,6,Seat belts and supplementary restraint systems,0.2
+Hyundai,Santa Fe,1,"Lamps, reflectors and electrical equipment",13.2
+Hyundai,Santa Fe,2,Suspension,11
+Hyundai,Santa Fe,3,Brakes,8.2
+Hyundai,Santa Fe,4,Tyres,6.3
+Hyundai,Santa Fe,5,"Body, chassis, structure",4.4
+Hyundai,Santa Fe,6,Steering,3.9
+Hyundai,Tucson,1,Brakes,5.9
+Hyundai,Tucson,2,Tyres,4.5
+Hyundai,Tucson,3,Visibility,3.6
+Hyundai,Tucson,4,"Lamps, reflectors and electrical equipment",2.9
+Hyundai,Tucson,5,Suspension,1.7
+Hyundai,Tucson,6,"Noise, emissions and leaks",1.7
+Hyundai,i10,1,"Lamps, reflectors and electrical equipment",11.2
+Hyundai,i10,2,Brakes,7.8
+Hyundai,i10,3,Visibility,6.3
+Hyundai,i10,4,Tyres,6
+Hyundai,i10,5,Suspension,5.3
+Hyundai,i10,6,"Noise, emissions and leaks",1.8
+Hyundai,i20,1,"Lamps, reflectors and electrical equipment",11.3
+Hyundai,i20,2,Brakes,7.5
+Hyundai,i20,3,Suspension,6.5
+Hyundai,i20,4,Visibility,6.4
+Hyundai,i20,5,Tyres,5.1
+Hyundai,i20,6,"Noise, emissions and leaks",2
+Hyundai,i30,1,"Lamps, reflectors and electrical equipment",16
+Hyundai,i30,2,Brakes,11.9
+Hyundai,i30,3,Suspension,9.6
+Hyundai,i30,4,Tyres,7.2
+Hyundai,i30,5,Steering,5.8
+Hyundai,i30,6,Visibility,5
+Jaguar,F-Pace,1,Tyres,3.8
+Jaguar,F-Pace,2,Visibility,3.2
+Jaguar,F-Pace,3,Brakes,2.7
+Jaguar,F-Pace,4,"Lamps, reflectors and electrical equipment",2.6
+Jaguar,F-Pace,5,Steering,2.2
+Jaguar,F-Pace,6,"Noise, emissions and leaks",2
+Jaguar,I-Pace,1,Tyres,4.5
+Jaguar,I-Pace,2,"Lamps, reflectors and electrical equipment",1.3
+Jaguar,I-Pace,3,Steering,1.2
+Jaguar,I-Pace,4,Visibility,0.8
+Jaguar,I-Pace,5,Brakes,0.5
+Jaguar,I-Pace,6,Identification of the vehicle,0.4
+Jaguar,XE,1,Tyres,6.8
+Jaguar,XE,2,"Lamps, reflectors and electrical equipment",4.9
+Jaguar,XE,3,Brakes,3.9
+Jaguar,XE,4,Suspension,2.6
+Jaguar,XE,5,Visibility,2.5
+Jaguar,XE,6,"Noise, emissions and leaks",2.2
+Jaguar,XF,1,Suspension,8.6
+Jaguar,XF,2,Tyres,7.9
+Jaguar,XF,3,"Lamps, reflectors and electrical equipment",7.8
+Jaguar,XF,4,Brakes,5.4
+Jaguar,XF,5,Visibility,3.6
+Jaguar,XF,6,"Noise, emissions and leaks",1.9
+Jeep,Compass,1,Tyres,7
+Jeep,Compass,2,"Lamps, reflectors and electrical equipment",6.6
+Jeep,Compass,3,Suspension,6.2
+Jeep,Compass,4,Visibility,5.6
+Jeep,Compass,5,Brakes,3.7
+Jeep,Compass,6,"Noise, emissions and leaks",2.6
+Jeep,Renegade,1,"Lamps, reflectors and electrical equipment",8.7
+Jeep,Renegade,2,Steering,7.8
+Jeep,Renegade,3,Tyres,7.4
+Jeep,Renegade,4,Suspension,6.3
+Jeep,Renegade,5,"Noise, emissions and leaks",4.4
+Jeep,Renegade,6,Brakes,3.2
+Kia,Ceed,1,"Lamps, reflectors and electrical equipment",12.9
+Kia,Ceed,2,Suspension,9.2
+Kia,Ceed,3,Brakes,9.2
+Kia,Ceed,4,Tyres,7.5
+Kia,Ceed,5,Visibility,5.5
+Kia,Ceed,6,Steering,4.7
+Kia,EV6,1,Visibility,4.6
+Kia,EV6,2,Tyres,3.9
+Kia,EV6,3,"Lamps, reflectors and electrical equipment",1.2
+Kia,EV6,4,Brakes,0.3
+Kia,EV6,5,Identification of the vehicle,0.2
+Kia,EV6,6,Seat belts and supplementary restraint systems,0.1
+Kia,Niro,1,Tyres,5.6
+Kia,Niro,2,Visibility,3.4
+Kia,Niro,3,"Lamps, reflectors and electrical equipment",2.6
+Kia,Niro,4,Brakes,1.4
+Kia,Niro,5,Suspension,0.3
+Kia,Niro,6,"Noise, emissions and leaks",0.2
+Kia,Picanto,1,Brakes,9.6
+Kia,Picanto,2,"Lamps, reflectors and electrical equipment",9.1
+Kia,Picanto,3,Suspension,6.9
+Kia,Picanto,4,Tyres,6.5
+Kia,Picanto,5,Visibility,6.1
+Kia,Picanto,6,"Body, chassis, structure",3.1
+Kia,Rio,1,"Lamps, reflectors and electrical equipment",11.2
+Kia,Rio,2,Suspension,7.9
+Kia,Rio,3,Brakes,7.5
+Kia,Rio,4,Tyres,6.6
+Kia,Rio,5,Visibility,5.9
+Kia,Rio,6,Steering,3.9
+Kia,Sorento,1,Suspension,9.9
+Kia,Sorento,2,"Lamps, reflectors and electrical equipment",9.3
+Kia,Sorento,3,Brakes,8.3
+Kia,Sorento,4,Tyres,5.6
+Kia,Sorento,5,Steering,4.2
+Kia,Sorento,6,Visibility,3.3
+Kia,Sportage,1,Brakes,7.8
+Kia,Sportage,2,Tyres,5.8
+Kia,Sportage,3,"Lamps, reflectors and electrical equipment",5.2
+Kia,Sportage,4,Suspension,5
+Kia,Sportage,5,Visibility,4.2
+Kia,Sportage,6,Steering,2.1
+Kia,Stinger,1,Tyres,5.3
+Kia,Stinger,2,Brakes,3
+Kia,Stinger,3,"Lamps, reflectors and electrical equipment",1.9
+Kia,Stinger,4,Visibility,1.6
+Kia,Stinger,5,"Noise, emissions and leaks",0.9
+Kia,Stinger,6,Suspension,0.2
+Kia,Stonic,1,Visibility,3.7
+Kia,Stonic,2,Brakes,3.1
+Kia,Stonic,3,Tyres,2.8
+Kia,Stonic,4,"Lamps, reflectors and electrical equipment",2.3
+Kia,Stonic,5,Suspension,1
+Kia,Stonic,6,"Noise, emissions and leaks",0.6
+Kia,XCeed,1,Tyres,4.5
+Kia,XCeed,2,Visibility,4.5
+Kia,XCeed,3,Brakes,1.9
+Kia,XCeed,4,"Lamps, reflectors and electrical equipment",1.2
+Kia,XCeed,5,Suspension,0.8
+Kia,XCeed,6,"Noise, emissions and leaks",0.4
+Land Rover,Defender,1,"Lamps, reflectors and electrical equipment",14.2
+Land Rover,Defender,2,Suspension,7.6
+Land Rover,Defender,3,Brakes,7.1
+Land Rover,Defender,4,"Body, chassis, structure",6.1
+Land Rover,Defender,5,Steering,6
+Land Rover,Defender,6,Visibility,5.4
+Land Rover,Discovery,1,"Lamps, reflectors and electrical equipment",8.9
+Land Rover,Discovery,2,Suspension,8.1
+Land Rover,Discovery,3,Brakes,7.2
+Land Rover,Discovery,4,"Body, chassis, structure",5.4
+Land Rover,Discovery,5,Tyres,4.5
+Land Rover,Discovery,6,Visibility,3.4
+Land Rover,Discovery Sport,1,Tyres,5.9
+Land Rover,Discovery Sport,2,"Lamps, reflectors and electrical equipment",5
+Land Rover,Discovery Sport,3,Brakes,3.4
+Land Rover,Discovery Sport,4,"Noise, emissions and leaks",3.2
+Land Rover,Discovery Sport,5,Visibility,3.2
+Land Rover,Discovery Sport,6,Suspension,2.5
+Land Rover,Range Rover,1,Suspension,7.1
+Land Rover,Range Rover,2,Brakes,5.9
+Land Rover,Range Rover,3,Tyres,4.6
+Land Rover,Range Rover,4,"Lamps, reflectors and electrical equipment",4.2
+Land Rover,Range Rover,5,"Body, chassis, structure",3.5
+Land Rover,Range Rover,6,Visibility,2.6
+Land Rover,Range Rover Evoque,1,Tyres,5.4
+Land Rover,Range Rover Evoque,2,"Lamps, reflectors and electrical equipment",4.3
+Land Rover,Range Rover Evoque,3,Brakes,4.1
+Land Rover,Range Rover Evoque,4,Suspension,3.9
+Land Rover,Range Rover Evoque,5,"Noise, emissions and leaks",2.6
+Land Rover,Range Rover Evoque,6,Visibility,1.8
+Land Rover,Range Rover Sport,1,Tyres,5.5
+Land Rover,Range Rover Sport,2,Suspension,5.4
+Land Rover,Range Rover Sport,3,Brakes,5.3
+Land Rover,Range Rover Sport,4,"Lamps, reflectors and electrical equipment",4.8
+Land Rover,Range Rover Sport,5,Visibility,2.6
+Land Rover,Range Rover Sport,6,"Body, chassis, structure",2.5
+Land Rover,Range Rover Velar,1,Tyres,5
+Land Rover,Range Rover Velar,2,Visibility,3.7
+Land Rover,Range Rover Velar,3,Brakes,2.6
+Land Rover,Range Rover Velar,4,"Lamps, reflectors and electrical equipment",2.4
+Land Rover,Range Rover Velar,5,"Noise, emissions and leaks",2.3
+Land Rover,Range Rover Velar,6,Steering,2.1
+Lexus,IS,1,Tyres,6.5
+Lexus,IS,2,"Lamps, reflectors and electrical equipment",4.4
+Lexus,IS,3,Brakes,2.5
+Lexus,IS,4,Visibility,2.5
+Lexus,IS,5,Suspension,1
+Lexus,IS,6,"Noise, emissions and leaks",0.4
+Lexus,NX,1,Tyres,3.4
+Lexus,NX,2,Visibility,2.9
+Lexus,NX,3,"Lamps, reflectors and electrical equipment",1.5
+Lexus,NX,4,Suspension,1.5
+Lexus,NX,5,Brakes,1.4
+Lexus,NX,6,Seat belts and supplementary restraint systems,0.3
+Lexus,RX,1,Tyres,3.4
+Lexus,RX,2,"Lamps, reflectors and electrical equipment",2.1
+Lexus,RX,3,Suspension,1.7
+Lexus,RX,4,Visibility,1.7
+Lexus,RX,5,Brakes,1.5
+Lexus,RX,6,Identification of the vehicle,0.3
+Lexus,UX,1,Tyres,3.1
+Lexus,UX,2,Visibility,1.7
+Lexus,UX,3,"Lamps, reflectors and electrical equipment",1.3
+Lexus,UX,4,Brakes,0.3
+Lexus,UX,5,Suspension,0.1
+Lexus,UX,6,Seat belts and supplementary restraint systems,0.1
+MG,HS,1,Tyres,3.8
+MG,HS,2,"Lamps, reflectors and electrical equipment",2.9
+MG,HS,3,Brakes,2.9
+MG,HS,4,Visibility,2.2
+MG,HS,5,"Noise, emissions and leaks",0.6
+MG,HS,6,Seat belts and supplementary restraint systems,0.5
+MG,ZS,1,Tyres,5.5
+MG,ZS,2,"Lamps, reflectors and electrical equipment",5.1
+MG,ZS,3,Brakes,4.8
+MG,ZS,4,Suspension,2.9
+MG,ZS,5,Visibility,2.2
+MG,ZS,6,"Noise, emissions and leaks",1.3
+MINI,Clubman,1,"Lamps, reflectors and electrical equipment",7.4
+MINI,Clubman,2,Tyres,7.1
+MINI,Clubman,3,Suspension,4.2
+MINI,Clubman,4,Visibility,2.7
+MINI,Clubman,5,Brakes,2.4
+MINI,Clubman,6,"Noise, emissions and leaks",1
+MINI,Countryman,1,Tyres,5.6
+MINI,Countryman,2,"Lamps, reflectors and electrical equipment",4.6
+MINI,Countryman,3,Visibility,2.9
+MINI,Countryman,4,Brakes,2
+MINI,Countryman,5,Suspension,1.8
+MINI,Countryman,6,"Noise, emissions and leaks",1.1
+MINI,Electric,1,Tyres,7.3
+MINI,Electric,2,Visibility,3.2
+MINI,Electric,3,"Lamps, reflectors and electrical equipment",1.3
+MINI,Electric,4,Suspension,0.2
+MINI,Electric,5,Road Wheels,0.2
+MINI,Electric,6,Identification of the vehicle,0.2
+Mazda,'3',1,Suspension,14.4
+Mazda,'3',2,"Lamps, reflectors and electrical equipment",10.6
+Mazda,'3',3,Brakes,7.1
+Mazda,'3',4,Tyres,6.4
+Mazda,'3',5,Visibility,4.2
+Mazda,'3',6,"Noise, emissions and leaks",3.4
+Mazda,'6',1,Suspension,12.1
+Mazda,'6',2,"Lamps, reflectors and electrical equipment",10.3
+Mazda,'6',3,Brakes,9.8
+Mazda,'6',4,Tyres,5.7
+Mazda,'6',5,Visibility,4
+Mazda,'6',6,"Noise, emissions and leaks",3.5
+Mazda,CX-5,1,Suspension,6.4
+Mazda,CX-5,2,Brakes,4.3
+Mazda,CX-5,3,Tyres,3.9
+Mazda,CX-5,4,"Lamps, reflectors and electrical equipment",3.6
+Mazda,CX-5,5,Steering,3.1
+Mazda,CX-5,6,Visibility,2.8
+Mercedes-Benz,A-Class,1,Tyres,6.9
+Mercedes-Benz,A-Class,2,Suspension,5.8
+Mercedes-Benz,A-Class,3,"Lamps, reflectors and electrical equipment",5.5
+Mercedes-Benz,A-Class,4,Brakes,4.1
+Mercedes-Benz,A-Class,5,Visibility,3.7
+Mercedes-Benz,A-Class,6,"Noise, emissions and leaks",2.3
+Mercedes-Benz,C-Class,1,Suspension,10.4
+Mercedes-Benz,C-Class,2,Tyres,7.5
+Mercedes-Benz,C-Class,3,"Lamps, reflectors and electrical equipment",6
+Mercedes-Benz,C-Class,4,Brakes,6
+Mercedes-Benz,C-Class,5,"Noise, emissions and leaks",3.6
+Mercedes-Benz,C-Class,6,Visibility,2.6
+Mercedes-Benz,CLA,1,Tyres,8.3
+Mercedes-Benz,CLA,2,Suspension,4.2
+Mercedes-Benz,CLA,3,"Lamps, reflectors and electrical equipment",3.1
+Mercedes-Benz,CLA,4,Brakes,3
+Mercedes-Benz,CLA,5,Visibility,2.8
+Mercedes-Benz,CLA,6,"Noise, emissions and leaks",2
+Mercedes-Benz,CLS,1,Tyres,9.4
+Mercedes-Benz,CLS,2,Suspension,8.8
+Mercedes-Benz,CLS,3,Brakes,6.2
+Mercedes-Benz,CLS,4,"Lamps, reflectors and electrical equipment",5
+Mercedes-Benz,CLS,5,"Noise, emissions and leaks",3
+Mercedes-Benz,CLS,6,Visibility,2
+Mercedes-Benz,E-Class,1,Tyres,8.1
+Mercedes-Benz,E-Class,2,Suspension,7.9
+Mercedes-Benz,E-Class,3,Brakes,5.4
+Mercedes-Benz,E-Class,4,"Lamps, reflectors and electrical equipment",4
+Mercedes-Benz,E-Class,5,"Noise, emissions and leaks",2.8
+Mercedes-Benz,E-Class,6,Visibility,1.7
+Mercedes-Benz,EQA,1,Tyres,6.9
+Mercedes-Benz,EQA,2,Visibility,1.6
+Mercedes-Benz,EQA,3,"Lamps, reflectors and electrical equipment",1
+Mercedes-Benz,EQA,4,Suspension,0.9
+Mercedes-Benz,EQA,5,Identification of the vehicle,0.3
+Mercedes-Benz,EQA,6,Seat belts and supplementary restraint systems,0.2
+Mercedes-Benz,EQB,1,Tyres,10.9
+Mercedes-Benz,EQB,2,"Lamps, reflectors and electrical equipment",1.7
+Mercedes-Benz,EQB,3,Visibility,1.5
+Mercedes-Benz,EQB,4,Suspension,1.2
+Mercedes-Benz,EQB,5,Seat belts and supplementary restraint systems,0.5
+Mercedes-Benz,EQB,6,"Body, chassis, structure",0.3
+Mercedes-Benz,EQC,1,Tyres,11.9
+Mercedes-Benz,EQC,2,Suspension,2.4
+Mercedes-Benz,EQC,3,Visibility,1.4
+Mercedes-Benz,EQC,4,"Lamps, reflectors and electrical equipment",1.2
+Mercedes-Benz,EQC,5,Identification of the vehicle,0.7
+Mercedes-Benz,EQC,6,Brakes,0.5
+Mercedes-Benz,EQE,1,Tyres,4.7
+Mercedes-Benz,EQE,2,Suspension,0.4
+Mercedes-Benz,EQE,3,Visibility,0.4
+Mercedes-Benz,EQE,4,"Body, chassis, structure",0.3
+Mercedes-Benz,EQE,5,Road Wheels,0.3
+Mercedes-Benz,EQE,6,Brakes,0.2
+Mercedes-Benz,G-Class,1,"Lamps, reflectors and electrical equipment",7.2
+Mercedes-Benz,G-Class,2,Tyres,3.5
+Mercedes-Benz,G-Class,3,Brakes,3.1
+Mercedes-Benz,G-Class,4,Visibility,2.5
+Mercedes-Benz,G-Class,5,Suspension,2.3
+Mercedes-Benz,G-Class,6,"Noise, emissions and leaks",2.3
+Mercedes-Benz,GLA,1,Tyres,5.1
+Mercedes-Benz,GLA,2,Suspension,4.4
+Mercedes-Benz,GLA,3,"Lamps, reflectors and electrical equipment",2.5
+Mercedes-Benz,GLA,4,Brakes,2.5
+Mercedes-Benz,GLA,5,Visibility,2.5
+Mercedes-Benz,GLA,6,"Body, chassis, structure",2.1
+Mercedes-Benz,GLB,1,Tyres,4.6
+Mercedes-Benz,GLB,2,Brakes,1.9
+Mercedes-Benz,GLB,3,"Lamps, reflectors and electrical equipment",1.6
+Mercedes-Benz,GLB,4,Visibility,1.2
+Mercedes-Benz,GLB,5,Suspension,0.6
+Mercedes-Benz,GLB,6,Seat belts and supplementary restraint systems,0.5
+Mercedes-Benz,GLC,1,Tyres,5.2
+Mercedes-Benz,GLC,2,Suspension,3.8
+Mercedes-Benz,GLC,3,Brakes,1.7
+Mercedes-Benz,GLC,4,"Noise, emissions and leaks",1.4
+Mercedes-Benz,GLC,5,Visibility,1.4
+Mercedes-Benz,GLC,6,"Body, chassis, structure",1.3
+Mercedes-Benz,GLE,1,Tyres,6.8
+Mercedes-Benz,GLE,2,Suspension,1.6
+Mercedes-Benz,GLE,3,Brakes,1.4
+Mercedes-Benz,GLE,4,"Lamps, reflectors and electrical equipment",1.3
+Mercedes-Benz,GLE,5,Visibility,1.2
+Mercedes-Benz,GLE,6,"Noise, emissions and leaks",1
+Mercedes-Benz,GLS,1,Tyres,8.1
+Mercedes-Benz,GLS,2,"Lamps, reflectors and electrical equipment",1.6
+Mercedes-Benz,GLS,3,Brakes,1.4
+Mercedes-Benz,GLS,4,"Body, chassis, structure",1.1
+Mercedes-Benz,GLS,5,Suspension,0.9
+Mercedes-Benz,GLS,6,"Noise, emissions and leaks",0.9
+Mercedes-Benz,S-Class,1,Suspension,5.1
+Mercedes-Benz,S-Class,2,Tyres,4.8
+Mercedes-Benz,S-Class,3,Brakes,4.2
+Mercedes-Benz,S-Class,4,"Lamps, reflectors and electrical equipment",3.7
+Mercedes-Benz,S-Class,5,"Noise, emissions and leaks",2.8
+Mercedes-Benz,S-Class,6,Visibility,2.5
+Mercedes-Benz,Sprinter,1,"Lamps, reflectors and electrical equipment",13.8
+Mercedes-Benz,Sprinter,2,Brakes,13
+Mercedes-Benz,Sprinter,3,Suspension,6.6
+Mercedes-Benz,Sprinter,4,Visibility,5
+Mercedes-Benz,Sprinter,5,"Body, chassis, structure",4.5
+Mercedes-Benz,Sprinter,6,"Noise, emissions and leaks",3.4
+Mercedes-Benz,Vito,1,"Lamps, reflectors and electrical equipment",13.2
+Mercedes-Benz,Vito,2,Brakes,11.9
+Mercedes-Benz,Vito,3,Suspension,11.6
+Mercedes-Benz,Vito,4,Tyres,6.1
+Mercedes-Benz,Vito,5,Visibility,5.7
+Mercedes-Benz,Vito,6,"Noise, emissions and leaks",5.3
+Mitsubishi,ASX,1,Brakes,9.4
+Mitsubishi,ASX,2,Suspension,8
+Mitsubishi,ASX,3,"Lamps, reflectors and electrical equipment",5.8
+Mitsubishi,ASX,4,Tyres,4.3
+Mitsubishi,ASX,5,Visibility,3.8
+Mitsubishi,ASX,6,Steering,3.5
+Mitsubishi,Eclipse Cross,1,Visibility,3.7
+Mitsubishi,Eclipse Cross,2,Tyres,3.4
+Mitsubishi,Eclipse Cross,3,Brakes,3
+Mitsubishi,Eclipse Cross,4,"Lamps, reflectors and electrical equipment",2
+Mitsubishi,Eclipse Cross,5,Suspension,0.8
+Mitsubishi,Eclipse Cross,6,"Body, chassis, structure",0.4
+Mitsubishi,Outlander,1,"Lamps, reflectors and electrical equipment",7.6
+Mitsubishi,Outlander,2,Suspension,6.8
+Mitsubishi,Outlander,3,Brakes,6.7
+Mitsubishi,Outlander,4,Tyres,5.1
+Mitsubishi,Outlander,5,Steering,3.5
+Mitsubishi,Outlander,6,Visibility,3.2
+Nissan,Ariya,1,Tyres,3.9
+Nissan,Ariya,2,Visibility,1.9
+Nissan,Ariya,3,"Lamps, reflectors and electrical equipment",1.7
+Nissan,Ariya,4,Suspension,0.6
+Nissan,Ariya,5,Brakes,0.6
+Nissan,Ariya,6,Identification of the vehicle,0.3
+Nissan,Juke,1,Suspension,12.6
+Nissan,Juke,2,"Lamps, reflectors and electrical equipment",6.9
+Nissan,Juke,3,Brakes,6.7
+Nissan,Juke,4,Visibility,6.2
+Nissan,Juke,5,Tyres,5.8
+Nissan,Juke,6,Steering,5.5
+Nissan,Leaf,1,Suspension,7.2
+Nissan,Leaf,2,Tyres,6.7
+Nissan,Leaf,3,Brakes,3.8
+Nissan,Leaf,4,Visibility,3.7
+Nissan,Leaf,5,"Lamps, reflectors and electrical equipment",3.6
+Nissan,Leaf,6,Steering,0.8
+Nissan,Micra,1,"Lamps, reflectors and electrical equipment",17.6
+Nissan,Micra,2,Suspension,15
+Nissan,Micra,3,Visibility,7
+Nissan,Micra,4,Brakes,6.4
+Nissan,Micra,5,Tyres,5.8
+Nissan,Micra,6,"Body, chassis, structure",4.2
+Nissan,Navara,1,Suspension,13.6
+Nissan,Navara,2,"Lamps, reflectors and electrical equipment",12.9
+Nissan,Navara,3,Brakes,7.8
+Nissan,Navara,4,"Body, chassis, structure",6.2
+Nissan,Navara,5,"Noise, emissions and leaks",5.7
+Nissan,Navara,6,Visibility,5.1
+Nissan,Note,1,"Lamps, reflectors and electrical equipment",19.2
+Nissan,Note,2,Suspension,17
+Nissan,Note,3,Tyres,5.8
+Nissan,Note,4,Brakes,5.6
+Nissan,Note,5,Visibility,5.5
+Nissan,Note,6,"Noise, emissions and leaks",3.2
+Nissan,Qashqai,1,Suspension,12.9
+Nissan,Qashqai,2,"Lamps, reflectors and electrical equipment",9.6
+Nissan,Qashqai,3,Brakes,7.4
+Nissan,Qashqai,4,Steering,6.4
+Nissan,Qashqai,5,Tyres,5.8
+Nissan,Qashqai,6,Visibility,4.7
+Nissan,X-Trail,1,Suspension,13.8
+Nissan,X-Trail,2,Brakes,8.5
+Nissan,X-Trail,3,"Lamps, reflectors and electrical equipment",7.5
+Nissan,X-Trail,4,Tyres,5.4
+Nissan,X-Trail,5,Steering,4.9
+Nissan,X-Trail,6,Visibility,3.8
+Peugeot,'2008',1,"Lamps, reflectors and electrical equipment",10.1
+Peugeot,'2008',2,"Body, chassis, structure",7.6
+Peugeot,'2008',3,Tyres,4.8
+Peugeot,'2008',4,Suspension,4.4
+Peugeot,'2008',5,Brakes,4
+Peugeot,'2008',6,Visibility,3.8
+Peugeot,'208',1,"Lamps, reflectors and electrical equipment",11.3
+Peugeot,'208',2,"Body, chassis, structure",6.9
+Peugeot,'208',3,"Noise, emissions and leaks",6.3
+Peugeot,'208',4,Suspension,6
+Peugeot,'208',5,Tyres,5.8
+Peugeot,'208',6,Brakes,4.6
+Peugeot,'3008',1,"Lamps, reflectors and electrical equipment",10.9
+Peugeot,'3008',2,Suspension,9.5
+Peugeot,'3008',3,Tyres,6.7
+Peugeot,'3008',4,Brakes,6.1
+Peugeot,'3008',5,"Body, chassis, structure",4.4
+Peugeot,'3008',6,Visibility,4
+Peugeot,'308',1,"Lamps, reflectors and electrical equipment",13.9
+Peugeot,'308',2,Suspension,12.4
+Peugeot,'308',3,Tyres,7.9
+Peugeot,'308',4,Brakes,7.7
+Peugeot,'308',5,"Body, chassis, structure",6.1
+Peugeot,'308',6,"Noise, emissions and leaks",4.6
+Peugeot,'5008',1,"Lamps, reflectors and electrical equipment",11.4
+Peugeot,'5008',2,Tyres,7.9
+Peugeot,'5008',3,Suspension,6.8
+Peugeot,'5008',4,Brakes,6.7
+Peugeot,'5008',5,Visibility,4.4
+Peugeot,'5008',6,"Body, chassis, structure",3.9
+Peugeot,Expert,1,"Lamps, reflectors and electrical equipment",17.8
+Peugeot,Expert,2,"Body, chassis, structure",9.9
+Peugeot,Expert,3,Suspension,8.6
+Peugeot,Expert,4,Brakes,7.4
+Peugeot,Expert,5,Visibility,6.3
+Peugeot,Expert,6,Tyres,4.6
+Peugeot,Partner,1,"Lamps, reflectors and electrical equipment",22.8
+Peugeot,Partner,2,Suspension,10.8
+Peugeot,Partner,3,Brakes,7.4
+Peugeot,Partner,4,"Body, chassis, structure",7.3
+Peugeot,Partner,5,Visibility,6.9
+Peugeot,Partner,6,Tyres,6
+Peugeot,Rifter,1,Visibility,7.8
+Peugeot,Rifter,2,"Lamps, reflectors and electrical equipment",6
+Peugeot,Rifter,3,Tyres,3.6
+Peugeot,Rifter,4,Brakes,2.6
+Peugeot,Rifter,5,"Body, chassis, structure",1.6
+Peugeot,Rifter,6,"Noise, emissions and leaks",1.2
+Porsche,Cayenne,1,Tyres,4.9
+Porsche,Cayenne,2,"Lamps, reflectors and electrical equipment",4.3
+Porsche,Cayenne,3,Suspension,2.9
+Porsche,Cayenne,4,Brakes,2.6
+Porsche,Cayenne,5,"Noise, emissions and leaks",1.9
+Porsche,Cayenne,6,Visibility,1.9
+Porsche,Macan,1,Tyres,3.8
+Porsche,Macan,2,"Lamps, reflectors and electrical equipment",2
+Porsche,Macan,3,"Body, chassis, structure",1.4
+Porsche,Macan,4,Brakes,1
+Porsche,Macan,5,Visibility,0.9
+Porsche,Macan,6,Suspension,0.8
+Porsche,Taycan,1,Tyres,7
+Porsche,Taycan,2,"Lamps, reflectors and electrical equipment",1.1
+Porsche,Taycan,3,Identification of the vehicle,0.8
+Porsche,Taycan,4,Visibility,0.5
+Porsche,Taycan,5,Brakes,0.4
+Porsche,Taycan,6,Suspension,0.3
+Renault,Captur,1,Suspension,8.9
+Renault,Captur,2,"Lamps, reflectors and electrical equipment",6.2
+Renault,Captur,3,Tyres,5.9
+Renault,Captur,4,Brakes,5.3
+Renault,Captur,5,Visibility,4.1
+Renault,Captur,6,"Body, chassis, structure",1.8
+Renault,Clio,1,Suspension,19.3
+Renault,Clio,2,"Lamps, reflectors and electrical equipment",18.5
+Renault,Clio,3,Brakes,10.4
+Renault,Clio,4,Tyres,8.1
+Renault,Clio,5,Visibility,8
+Renault,Clio,6,"Body, chassis, structure",6.2
+Renault,Kadjar,1,Suspension,8.3
+Renault,Kadjar,2,Tyres,8.1
+Renault,Kadjar,3,"Lamps, reflectors and electrical equipment",7.9
+Renault,Kadjar,4,Brakes,4.8
+Renault,Kadjar,5,Visibility,3.7
+Renault,Kadjar,6,Steering,1.7
+Renault,Master,1,"Lamps, reflectors and electrical equipment",16.6
+Renault,Master,2,Brakes,13.7
+Renault,Master,3,Suspension,7.7
+Renault,Master,4,Visibility,6
+Renault,Master,5,"Body, chassis, structure",5.9
+Renault,Master,6,Tyres,3.5
+Renault,Megane,1,"Lamps, reflectors and electrical equipment",22.2
+Renault,Megane,2,Suspension,19.9
+Renault,Megane,3,Brakes,12.6
+Renault,Megane,4,Tyres,7.4
+Renault,Megane,5,Steering,7.4
+Renault,Megane,6,"Body, chassis, structure",6
+Renault,Scenic,1,"Lamps, reflectors and electrical equipment",22.1
+Renault,Scenic,2,Suspension,19.4
+Renault,Scenic,3,Brakes,10.2
+Renault,Scenic,4,Steering,7.2
+Renault,Scenic,5,Tyres,6.9
+Renault,Scenic,6,"Body, chassis, structure",5.9
+Renault,Zoe,1,Tyres,8.5
+Renault,Zoe,2,Suspension,7.6
+Renault,Zoe,3,"Lamps, reflectors and electrical equipment",5.5
+Renault,Zoe,4,Brakes,2.7
+Renault,Zoe,5,Visibility,2.5
+Renault,Zoe,6,Steering,0.6
+SEAT,Alhambra,1,Suspension,9.7
+SEAT,Alhambra,2,Tyres,9.1
+SEAT,Alhambra,3,"Lamps, reflectors and electrical equipment",6.9
+SEAT,Alhambra,4,Brakes,4.4
+SEAT,Alhambra,5,"Noise, emissions and leaks",3.2
+SEAT,Alhambra,6,Visibility,2.5
+SEAT,Arona,1,Tyres,4.7
+SEAT,Arona,2,Brakes,4.4
+SEAT,Arona,3,Steering,3.5
+SEAT,Arona,4,"Lamps, reflectors and electrical equipment",2
+SEAT,Arona,5,Visibility,2
+SEAT,Arona,6,Suspension,1.3
+SEAT,Ateca,1,Tyres,4.5
+SEAT,Ateca,2,Brakes,2.6
+SEAT,Ateca,3,"Lamps, reflectors and electrical equipment",2.5
+SEAT,Ateca,4,Visibility,1.7
+SEAT,Ateca,5,Suspension,1.6
+SEAT,Ateca,6,"Noise, emissions and leaks",0.7
+SEAT,Ibiza,1,Suspension,12.8
+SEAT,Ibiza,2,"Lamps, reflectors and electrical equipment",11.7
+SEAT,Ibiza,3,Brakes,8.4
+SEAT,Ibiza,4,Tyres,7.9
+SEAT,Ibiza,5,Visibility,5.8
+SEAT,Ibiza,6,"Body, chassis, structure",4.1
+SEAT,Leon,1,Suspension,8.9
+SEAT,Leon,2,Tyres,6.6
+SEAT,Leon,3,"Lamps, reflectors and electrical equipment",5.9
+SEAT,Leon,4,Brakes,5.2
+SEAT,Leon,5,Visibility,3.7
+SEAT,Leon,6,"Noise, emissions and leaks",2.6
+SEAT,Tarraco,1,Tyres,6
+SEAT,Tarraco,2,Brakes,3.4
+SEAT,Tarraco,3,Seat belts and supplementary restraint systems,2.3
+SEAT,Tarraco,4,"Lamps, reflectors and electrical equipment",2.2
+SEAT,Tarraco,5,Suspension,1.8
+SEAT,Tarraco,6,Visibility,1.6
+Skoda,Enyaq,1,Tyres,7
+Skoda,Enyaq,2,"Lamps, reflectors and electrical equipment",1.8
+Skoda,Enyaq,3,Suspension,1.4
+Skoda,Enyaq,4,Visibility,1.4
+Skoda,Enyaq,5,Seat belts and supplementary restraint systems,1.3
+Skoda,Enyaq,6,Brakes,0.4
+Skoda,Fabia,1,Suspension,10.3
+Skoda,Fabia,2,"Lamps, reflectors and electrical equipment",10.1
+Skoda,Fabia,3,Brakes,7.7
+Skoda,Fabia,4,Tyres,6.3
+Skoda,Fabia,5,"Body, chassis, structure",4.4
+Skoda,Fabia,6,Visibility,4
+Skoda,Kamiq,1,Brakes,3.9
+Skoda,Kamiq,2,Tyres,3.8
+Skoda,Kamiq,3,"Lamps, reflectors and electrical equipment",2.6
+Skoda,Kamiq,4,Visibility,1
+Skoda,Kamiq,5,Seat belts and supplementary restraint systems,0.6
+Skoda,Kamiq,6,"Noise, emissions and leaks",0.5
+Skoda,Karoq,1,Tyres,4.3
+Skoda,Karoq,2,Suspension,2.2
+Skoda,Karoq,3,"Lamps, reflectors and electrical equipment",2.1
+Skoda,Karoq,4,Brakes,2
+Skoda,Karoq,5,Visibility,1
+Skoda,Karoq,6,"Noise, emissions and leaks",0.5
+Skoda,Kodiaq,1,Tyres,4.4
+Skoda,Kodiaq,2,Brakes,2.5
+Skoda,Kodiaq,3,Suspension,2.2
+Skoda,Kodiaq,4,Visibility,2.2
+Skoda,Kodiaq,5,"Lamps, reflectors and electrical equipment",2
+Skoda,Kodiaq,6,"Noise, emissions and leaks",1.1
+Skoda,Octavia,1,Suspension,8.9
+Skoda,Octavia,2,"Lamps, reflectors and electrical equipment",8.1
+Skoda,Octavia,3,Tyres,6.2
+Skoda,Octavia,4,Brakes,5.2
+Skoda,Octavia,5,"Noise, emissions and leaks",2.8
+Skoda,Octavia,6,Visibility,2.3
+Skoda,Scala,1,Tyres,4.7
+Skoda,Scala,2,Brakes,4.2
+Skoda,Scala,3,"Lamps, reflectors and electrical equipment",2.1
+Skoda,Scala,4,Visibility,1.3
+Skoda,Scala,5,Steering,1.2
+Skoda,Scala,6,"Noise, emissions and leaks",0.8
+Skoda,Superb,1,Suspension,9.3
+Skoda,Superb,2,Tyres,7.4
+Skoda,Superb,3,"Lamps, reflectors and electrical equipment",5.4
+Skoda,Superb,4,Brakes,3.6
+Skoda,Superb,5,"Noise, emissions and leaks",2.2
+Skoda,Superb,6,Visibility,1.8
+Skoda,Yeti,1,Suspension,12.3
+Skoda,Yeti,2,"Lamps, reflectors and electrical equipment",7.6
+Skoda,Yeti,3,Brakes,5.5
+Skoda,Yeti,4,Tyres,4.7
+Skoda,Yeti,5,"Body, chassis, structure",2.4
+Skoda,Yeti,6,"Noise, emissions and leaks",2.1
+Subaru,Forester,1,Suspension,13.9
+Subaru,Forester,2,"Lamps, reflectors and electrical equipment",12
+Subaru,Forester,3,Brakes,5.6
+Subaru,Forester,4,"Noise, emissions and leaks",5
+Subaru,Forester,5,Visibility,4.7
+Subaru,Forester,6,"Body, chassis, structure",3.8
+Subaru,Impreza,1,"Lamps, reflectors and electrical equipment",10.9
+Subaru,Impreza,2,Suspension,9.1
+Subaru,Impreza,3,"Noise, emissions and leaks",8.5
+Subaru,Impreza,4,Brakes,5
+Subaru,Impreza,5,"Body, chassis, structure",4.6
+Subaru,Impreza,6,Visibility,3.7
+Subaru,Outback,1,"Lamps, reflectors and electrical equipment",9.9
+Subaru,Outback,2,Suspension,8.7
+Subaru,Outback,3,Brakes,5.7
+Subaru,Outback,4,Tyres,4.1
+Subaru,Outback,5,"Noise, emissions and leaks",3.6
+Subaru,Outback,6,Visibility,3.6
+Suzuki,Jimny,1,Suspension,10.6
+Suzuki,Jimny,2,"Lamps, reflectors and electrical equipment",10.1
+Suzuki,Jimny,3,Brakes,10
+Suzuki,Jimny,4,"Body, chassis, structure",8.7
+Suzuki,Jimny,5,"Noise, emissions and leaks",6
+Suzuki,Jimny,6,Visibility,5.1
+Suzuki,Swift,1,"Lamps, reflectors and electrical equipment",12.2
+Suzuki,Swift,2,Suspension,8.6
+Suzuki,Swift,3,Brakes,8.2
+Suzuki,Swift,4,Visibility,5.6
+Suzuki,Swift,5,Tyres,5.1
+Suzuki,Swift,6,"Noise, emissions and leaks",2
+Suzuki,Vitara,1,"Lamps, reflectors and electrical equipment",6.4
+Suzuki,Vitara,2,Tyres,4.4
+Suzuki,Vitara,3,Brakes,3.2
+Suzuki,Vitara,4,Visibility,2.8
+Suzuki,Vitara,5,Suspension,1.5
+Suzuki,Vitara,6,"Noise, emissions and leaks",0.6
+Tesla,Model 3,1,Tyres,11.2
+Tesla,Model 3,2,Suspension,2.4
+Tesla,Model 3,3,"Lamps, reflectors and electrical equipment",1.8
+Tesla,Model 3,4,Visibility,1.1
+Tesla,Model 3,5,Brakes,0.7
+Tesla,Model 3,6,Road Wheels,0.3
+Tesla,Model S,1,Tyres,9.5
+Tesla,Model S,2,Suspension,5.6
+Tesla,Model S,3,"Lamps, reflectors and electrical equipment",3.1
+Tesla,Model S,4,Visibility,3.1
+Tesla,Model S,5,Brakes,2.7
+Tesla,Model S,6,Steering,1.9
+Tesla,Model X,1,Tyres,12.4
+Tesla,Model X,2,Visibility,4.1
+Tesla,Model X,3,Suspension,3.7
+Tesla,Model X,4,Brakes,2.4
+Tesla,Model X,5,"Lamps, reflectors and electrical equipment",1.4
+Tesla,Model X,6,"Body, chassis, structure",1.1
+Tesla,Model Y,1,Tyres,11.7
+Tesla,Model Y,2,Suspension,2.2
+Tesla,Model Y,3,"Lamps, reflectors and electrical equipment",1.5
+Tesla,Model Y,4,Visibility,1
+Tesla,Model Y,5,Brakes,0.5
+Tesla,Model Y,6,Seat belts and supplementary restraint systems,0.3
+Toyota,Auris,1,"Lamps, reflectors and electrical equipment",14.9
+Toyota,Auris,2,Suspension,7.3
+Toyota,Auris,3,Brakes,6.8
+Toyota,Auris,4,Tyres,5.5
+Toyota,Auris,5,Visibility,4.1
+Toyota,Auris,6,"Noise, emissions and leaks",1.7
+Toyota,Avensis,1,"Lamps, reflectors and electrical equipment",17.9
+Toyota,Avensis,2,Suspension,10.5
+Toyota,Avensis,3,Brakes,9.1
+Toyota,Avensis,4,Tyres,6.2
+Toyota,Avensis,5,Visibility,5.6
+Toyota,Avensis,6,"Noise, emissions and leaks",3.8
+Toyota,Aygo,1,"Lamps, reflectors and electrical equipment",10
+Toyota,Aygo,2,Brakes,7.2
+Toyota,Aygo,3,Suspension,5.6
+Toyota,Aygo,4,Tyres,5.3
+Toyota,Aygo,5,Visibility,4.1
+Toyota,Aygo,6,"Body, chassis, structure",2.6
+Toyota,C-HR,1,"Lamps, reflectors and electrical equipment",5.4
+Toyota,C-HR,2,Visibility,5.1
+Toyota,C-HR,3,Tyres,3.8
+Toyota,C-HR,4,Brakes,1.3
+Toyota,C-HR,5,Suspension,1.2
+Toyota,C-HR,6,Identification of the vehicle,0.2
+Toyota,Camry,1,"Lamps, reflectors and electrical equipment",5
+Toyota,Camry,2,Tyres,3.5
+Toyota,Camry,3,Visibility,2.8
+Toyota,Camry,4,"Body, chassis, structure",2.5
+Toyota,Camry,5,Suspension,2.4
+Toyota,Camry,6,Brakes,2.4
+Toyota,Corolla,1,"Lamps, reflectors and electrical equipment",10.6
+Toyota,Corolla,2,Brakes,5.9
+Toyota,Corolla,3,Visibility,5.2
+Toyota,Corolla,4,Tyres,4.7
+Toyota,Corolla,5,Suspension,4.1
+Toyota,Corolla,6,"Body, chassis, structure",2.5
+Toyota,GR Yaris,1,Tyres,4.1
+Toyota,GR Yaris,2,"Noise, emissions and leaks",1.2
+Toyota,GR Yaris,3,Visibility,1
+Toyota,GR Yaris,4,"Lamps, reflectors and electrical equipment",0.7
+Toyota,GR Yaris,5,Brakes,0.5
+Toyota,GR Yaris,6,"Body, chassis, structure",0.4
+Toyota,Hilux,1,"Lamps, reflectors and electrical equipment",14.6
+Toyota,Hilux,2,Brakes,11.8
+Toyota,Hilux,3,Suspension,10.1
+Toyota,Hilux,4,"Body, chassis, structure",6.6
+Toyota,Hilux,5,Visibility,5
+Toyota,Hilux,6,Tyres,2.9
+Toyota,Land Cruiser,1,"Lamps, reflectors and electrical equipment",10.3
+Toyota,Land Cruiser,2,Brakes,8.9
+Toyota,Land Cruiser,3,Suspension,8.4
+Toyota,Land Cruiser,4,"Body, chassis, structure",6.6
+Toyota,Land Cruiser,5,Visibility,3.8
+Toyota,Land Cruiser,6,Tyres,2.3
+Toyota,Prius,1,"Lamps, reflectors and electrical equipment",11.2
+Toyota,Prius,2,Suspension,5.1
+Toyota,Prius,3,Tyres,4.5
+Toyota,Prius,4,Visibility,3.7
+Toyota,Prius,5,Brakes,3.6
+Toyota,Prius,6,"Body, chassis, structure",1.5
+Toyota,Proace,1,"Lamps, reflectors and electrical equipment",15.5
+Toyota,Proace,2,Visibility,6.6
+Toyota,Proace,3,Brakes,5.8
+Toyota,Proace,4,Tyres,5.5
+Toyota,Proace,5,"Body, chassis, structure",5.5
+Toyota,Proace,6,Suspension,3.7
+Toyota,RAV4,1,"Lamps, reflectors and electrical equipment",6.1
+Toyota,RAV4,2,Suspension,6
+Toyota,RAV4,3,Brakes,4.1
+Toyota,RAV4,4,Tyres,4
+Toyota,RAV4,5,Visibility,3.6
+Toyota,RAV4,6,"Noise, emissions and leaks",2
+Toyota,Supra,1,"Lamps, reflectors and electrical equipment",4.6
+Toyota,Supra,2,Tyres,2.6
+Toyota,Supra,3,Suspension,2.4
+Toyota,Supra,4,"Noise, emissions and leaks",2.1
+Toyota,Supra,5,Brakes,2.1
+Toyota,Supra,6,Visibility,2.1
+Toyota,Yaris,1,"Lamps, reflectors and electrical equipment",13.2
+Toyota,Yaris,2,Suspension,9.3
+Toyota,Yaris,3,Visibility,5.6
+Toyota,Yaris,4,Brakes,5.1
+Toyota,Yaris,5,Tyres,4.9
+Toyota,Yaris,6,"Body, chassis, structure",2.7
+Toyota,Yaris Cross,1,"Lamps, reflectors and electrical equipment",2.6
+Toyota,Yaris Cross,2,Visibility,2.2
+Toyota,Yaris Cross,3,Tyres,1.9
+Toyota,Yaris Cross,4,Suspension,0.8
+Toyota,Yaris Cross,5,Brakes,0.2
+Toyota,Yaris Cross,6,Seat belts and supplementary restraint systems,0.1
+Toyota,bZ4X,1,Tyres,1.8
+Toyota,bZ4X,2,"Lamps, reflectors and electrical equipment",0.7
+Toyota,bZ4X,3,Visibility,0.2
+Toyota,bZ4X,4,Suspension,0.1
+Toyota,bZ4X,5,Seat belts and supplementary restraint systems,0.1
+Toyota,bZ4X,6,Brakes,0.1
+Vauxhall,Astra,1,"Lamps, reflectors and electrical equipment",13
+Vauxhall,Astra,2,Suspension,11.6
+Vauxhall,Astra,3,Brakes,8.7
+Vauxhall,Astra,4,Tyres,8.1
+Vauxhall,Astra,5,"Noise, emissions and leaks",5.4
+Vauxhall,Astra,6,Visibility,5.2
+Vauxhall,Combo,1,"Lamps, reflectors and electrical equipment",17.2
+Vauxhall,Combo,2,Suspension,12.7
+Vauxhall,Combo,3,Brakes,8.8
+Vauxhall,Combo,4,Visibility,8.4
+Vauxhall,Combo,5,Tyres,7.8
+Vauxhall,Combo,6,"Body, chassis, structure",5.5
+Vauxhall,Corsa,1,"Lamps, reflectors and electrical equipment",13.7
+Vauxhall,Corsa,2,Suspension,12.6
+Vauxhall,Corsa,3,Brakes,6.6
+Vauxhall,Corsa,4,Tyres,6.4
+Vauxhall,Corsa,5,Visibility,6.3
+Vauxhall,Corsa,6,Steering,5.3
+Vauxhall,Corsa Electric,1,Suspension,7.9
+Vauxhall,Corsa Electric,2,Visibility,7.8
+Vauxhall,Corsa Electric,3,Tyres,7.6
+Vauxhall,Corsa Electric,4,"Lamps, reflectors and electrical equipment",2.5
+Vauxhall,Corsa Electric,5,Brakes,1.9
+Vauxhall,Corsa Electric,6,Seat belts and supplementary restraint systems,0.2
+Vauxhall,Crossland,1,Tyres,4.6
+Vauxhall,Crossland,2,Brakes,4.1
+Vauxhall,Crossland,3,"Body, chassis, structure",3.8
+Vauxhall,Crossland,4,"Lamps, reflectors and electrical equipment",2.8
+Vauxhall,Crossland,5,Visibility,1.7
+Vauxhall,Crossland,6,Suspension,1.6
+Vauxhall,Grandland,1,Tyres,5.5
+Vauxhall,Grandland,2,"Lamps, reflectors and electrical equipment",3.9
+Vauxhall,Grandland,3,Brakes,3.3
+Vauxhall,Grandland,4,Visibility,2.3
+Vauxhall,Grandland,5,Suspension,2.2
+Vauxhall,Grandland,6,"Body, chassis, structure",1.4
+Vauxhall,Insignia,1,Suspension,12.1
+Vauxhall,Insignia,2,"Lamps, reflectors and electrical equipment",11.3
+Vauxhall,Insignia,3,Tyres,8.7
+Vauxhall,Insignia,4,Brakes,6.7
+Vauxhall,Insignia,5,Visibility,4
+Vauxhall,Insignia,6,"Noise, emissions and leaks",3.8
+Vauxhall,Mokka,1,Suspension,14.8
+Vauxhall,Mokka,2,"Lamps, reflectors and electrical equipment",9
+Vauxhall,Mokka,3,Tyres,6.4
+Vauxhall,Mokka,4,Brakes,5
+Vauxhall,Mokka,5,Visibility,4.9
+Vauxhall,Mokka,6,Steering,3.9
+Vauxhall,Mokka Electric,1,Tyres,4.3
+Vauxhall,Mokka Electric,2,Visibility,4.2
+Vauxhall,Mokka Electric,3,Suspension,3.8
+Vauxhall,Mokka Electric,4,"Lamps, reflectors and electrical equipment",0.9
+Vauxhall,Mokka Electric,5,Brakes,0.9
+Vauxhall,Mokka Electric,6,Seat belts and supplementary restraint systems,0.8
+Vauxhall,Movano,1,"Lamps, reflectors and electrical equipment",19.2
+Vauxhall,Movano,2,Brakes,16.1
+Vauxhall,Movano,3,Suspension,8.8
+Vauxhall,Movano,4,"Body, chassis, structure",7.4
+Vauxhall,Movano,5,Visibility,7.4
+Vauxhall,Movano,6,Tyres,3.8
+Vauxhall,Vivaro,1,Suspension,18.7
+Vauxhall,Vivaro,2,"Lamps, reflectors and electrical equipment",18.4
+Vauxhall,Vivaro,3,Brakes,12.9
+Vauxhall,Vivaro,4,Steering,10.5
+Vauxhall,Vivaro,5,Visibility,7.4
+Vauxhall,Vivaro,6,Tyres,5.6
+Vauxhall,Zafira,1,"Lamps, reflectors and electrical equipment",15.6
+Vauxhall,Zafira,2,Suspension,13.7
+Vauxhall,Zafira,3,Brakes,9.1
+Vauxhall,Zafira,4,Tyres,8.6
+Vauxhall,Zafira,5,"Noise, emissions and leaks",8.2
+Vauxhall,Zafira,6,Visibility,6
+Volkswagen,Arteon,1,Tyres,7.6
+Volkswagen,Arteon,2,Suspension,2.3
+Volkswagen,Arteon,3,Brakes,2
+Volkswagen,Arteon,4,"Lamps, reflectors and electrical equipment",1.3
+Volkswagen,Arteon,5,"Noise, emissions and leaks",0.9
+Volkswagen,Arteon,6,Visibility,0.8
+Volkswagen,Beetle,1,"Lamps, reflectors and electrical equipment",18.6
+Volkswagen,Beetle,2,Suspension,16.4
+Volkswagen,Beetle,3,Brakes,8.7
+Volkswagen,Beetle,4,"Noise, emissions and leaks",7.7
+Volkswagen,Beetle,5,"Body, chassis, structure",6.9
+Volkswagen,Beetle,6,Visibility,6.2
+Volkswagen,Crafter,1,Brakes,13.4
+Volkswagen,Crafter,2,"Lamps, reflectors and electrical equipment",10.7
+Volkswagen,Crafter,3,"Noise, emissions and leaks",5.4
+Volkswagen,Crafter,4,Suspension,4.9
+Volkswagen,Crafter,5,Visibility,4.6
+Volkswagen,Crafter,6,Tyres,3
+Volkswagen,Golf,1,Suspension,9.4
+Volkswagen,Golf,2,"Lamps, reflectors and electrical equipment",7.9
+Volkswagen,Golf,3,Tyres,6.3
+Volkswagen,Golf,4,Brakes,5.7
+Volkswagen,Golf,5,"Body, chassis, structure",3.4
+Volkswagen,Golf,6,"Noise, emissions and leaks",3.2
+Volkswagen,ID.3,1,Tyres,8.4
+Volkswagen,ID.3,2,"Lamps, reflectors and electrical equipment",1.9
+Volkswagen,ID.3,3,Visibility,0.8
+Volkswagen,ID.3,4,Seat belts and supplementary restraint systems,0.4
+Volkswagen,ID.3,5,Brakes,0.4
+Volkswagen,ID.3,6,Suspension,0.2
+Volkswagen,Passat,1,Suspension,12.2
+Volkswagen,Passat,2,"Lamps, reflectors and electrical equipment",8.5
+Volkswagen,Passat,3,Tyres,8.3
+Volkswagen,Passat,4,Brakes,4.9
+Volkswagen,Passat,5,"Noise, emissions and leaks",3.7
+Volkswagen,Passat,6,"Body, chassis, structure",3.7
+Volkswagen,Polo,1,"Lamps, reflectors and electrical equipment",12.6
+Volkswagen,Polo,2,Suspension,11.2
+Volkswagen,Polo,3,Brakes,8.1
+Volkswagen,Polo,4,Tyres,6.1
+Volkswagen,Polo,5,"Body, chassis, structure",5
+Volkswagen,Polo,6,Visibility,5
+Volkswagen,T-Roc,1,Tyres,4.1
+Volkswagen,T-Roc,2,Brakes,1.8
+Volkswagen,T-Roc,3,"Lamps, reflectors and electrical equipment",1.5
+Volkswagen,T-Roc,4,Visibility,1.4
+Volkswagen,T-Roc,5,"Noise, emissions and leaks",0.6
+Volkswagen,T-Roc,6,Seat belts and supplementary restraint systems,0.5
+Volkswagen,Tiguan,1,Suspension,7.1
+Volkswagen,Tiguan,2,Tyres,5.7
+Volkswagen,Tiguan,3,"Lamps, reflectors and electrical equipment",3.5
+Volkswagen,Tiguan,4,Brakes,3.3
+Volkswagen,Tiguan,5,"Noise, emissions and leaks",2
+Volkswagen,Tiguan,6,Visibility,2
+Volkswagen,Touareg,1,"Lamps, reflectors and electrical equipment",8.7
+Volkswagen,Touareg,2,Suspension,8.4
+Volkswagen,Touareg,3,Tyres,5.1
+Volkswagen,Touareg,4,Brakes,4.1
+Volkswagen,Touareg,5,"Noise, emissions and leaks",2.3
+Volkswagen,Touareg,6,Visibility,2.1
+Volkswagen,Touran,1,Suspension,14
+Volkswagen,Touran,2,"Lamps, reflectors and electrical equipment",9.7
+Volkswagen,Touran,3,Tyres,8.7
+Volkswagen,Touran,4,Brakes,7
+Volkswagen,Touran,5,"Body, chassis, structure",4.6
+Volkswagen,Touran,6,Visibility,4.1
+Volkswagen,Transporter,1,"Lamps, reflectors and electrical equipment",12.2
+Volkswagen,Transporter,2,Suspension,12.2
+Volkswagen,Transporter,3,Brakes,8.6
+Volkswagen,Transporter,4,Tyres,5.2
+Volkswagen,Transporter,5,"Body, chassis, structure",5.2
+Volkswagen,Transporter,6,Visibility,5.2
+Volkswagen,up!,1,"Lamps, reflectors and electrical equipment",7.1
+Volkswagen,up!,2,Brakes,4.7
+Volkswagen,up!,3,Tyres,4.1
+Volkswagen,up!,4,Suspension,4
+Volkswagen,up!,5,Visibility,3
+Volkswagen,up!,6,"Noise, emissions and leaks",2.1
+Volvo,S60,1,"Lamps, reflectors and electrical equipment",10.6
+Volvo,S60,2,Brakes,8
+Volvo,S60,3,Tyres,7
+Volvo,S60,4,Suspension,7
+Volvo,S60,5,Visibility,3.1
+Volvo,S60,6,"Body, chassis, structure",3
+Volvo,S90,1,Tyres,5.2
+Volvo,S90,2,Brakes,3.9
+Volvo,S90,3,Suspension,2
+Volvo,S90,4,"Lamps, reflectors and electrical equipment",1.3
+Volvo,S90,5,Steering,1
+Volvo,S90,6,Visibility,0.9
+Volvo,V40,1,Suspension,9.9
+Volvo,V40,2,Tyres,8.1
+Volvo,V40,3,"Lamps, reflectors and electrical equipment",6.9
+Volvo,V40,4,Brakes,6.6
+Volvo,V40,5,"Body, chassis, structure",3.1
+Volvo,V40,6,"Noise, emissions and leaks",3
+Volvo,V60,1,Tyres,7.9
+Volvo,V60,2,"Lamps, reflectors and electrical equipment",5.2
+Volvo,V60,3,Brakes,4.7
+Volvo,V60,4,Suspension,4.4
+Volvo,V60,5,Visibility,2.8
+Volvo,V60,6,"Noise, emissions and leaks",2
+Volvo,XC40,1,Tyres,4.2
+Volvo,XC40,2,Brakes,3.1
+Volvo,XC40,3,"Lamps, reflectors and electrical equipment",1.2
+Volvo,XC40,4,Visibility,1
+Volvo,XC40,5,Suspension,0.6
+Volvo,XC40,6,"Noise, emissions and leaks",0.4
+Volvo,XC60,1,Suspension,6
+Volvo,XC60,2,"Lamps, reflectors and electrical equipment",5.4
+Volvo,XC60,3,Tyres,5.3
+Volvo,XC60,4,Brakes,3.5
+Volvo,XC60,5,Visibility,2.2
+Volvo,XC60,6,Steering,1.5
+Volvo,XC90,1,"Lamps, reflectors and electrical equipment",8.7
+Volvo,XC90,2,Brakes,8.7
+Volvo,XC90,3,Tyres,6.7
+Volvo,XC90,4,Suspension,4.8
+Volvo,XC90,5,Visibility,2.5
+Volvo,XC90,6,Steering,2.2
