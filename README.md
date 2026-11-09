@@ -1,6 +1,6 @@
 # UK MOT Fail Rates by Car Model 2025
 
-First-time MOT fail rates for **362 car models and light vans** in Great Britain in **2025**, by age of car, with the six most common areas each model failed on. Built from DVSA's own anonymised MOT test records (33.2 million initial tests of cars and light vans).
+First-time MOT fail rates for **369 car models and light vans** in Great Britain in **2025**, by age of car, with the six most common areas each model failed on. Built from DVSA's own anonymised MOT test records (33.2 million initial tests of cars and light vans).
 
 Use it to compare how often different models fail their MOT, how fail rates rise with age, and what typically fails (tyres, lamps, brakes, suspension and so on).
 
