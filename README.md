@@ -1,6 +1,6 @@
 # UK MOT Fail Rates by Car Model 2025
 
-First-time MOT fail rates for **238 car models** in Great Britain in **2025**, by age of car, with the six most common areas each model failed on. Built from DVSA's own anonymised MOT test records (33.2 million initial tests of cars and light vans).
+First-time MOT fail rates for **362 car models and light vans** in Great Britain in **2025**, by age of car, with the six most common areas each model failed on. Built from DVSA's own anonymised MOT test records (33.2 million initial tests of cars and light vans).
 
 Use it to compare how often different models fail their MOT, how fail rates rise with age, and what typically fails (tyres, lamps, brakes, suspension and so on).
 
@@ -24,3 +24,8 @@ Source: DVSA, anonymised MOT tests and results. Contains public sector informati
 Compiled by [CompareAutoParts.co.uk](https://compareautoparts.co.uk/mot-pass-rates), where the same figures are shown with the best and worst models at the same age: https://compareautoparts.co.uk/mot-pass-rates
 
 If you use this data, please credit "DVSA MOT data, compiled by CompareAutoParts.co.uk" with a link to the page above.
+
+## Rankings built from this data
+- [Cars most likely to fail their MOT](https://compareautoparts.co.uk/mot-pass-rates/most-failed-cars)
+- [Cars least likely to fail their MOT](https://compareautoparts.co.uk/mot-pass-rates/least-failed-cars)
+- [Best and worst older cars at 9 to 15 years](https://compareautoparts.co.uk/mot-pass-rates/older-cars)
